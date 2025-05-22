@@ -5,7 +5,7 @@ function Services() {
   return (
     <section id="services" className="min-h-screen flex items-center justify-center flex-grow p-8 text-center">
       <div className="max-w-3xl mx-auto">
-        <h2 className="text-3xl font-bold text-[#005eb8] mb-4">My Services – Always $15</h2>
+        <h2 className="text-3xl font-bold text-[#005eb8] mb-4">My Services – Always $20</h2>
         <p className='text-left mb-3'>From classic to modern, I got you covered. Every haircut is done with precision detail. No matter the style, I can make it happen.</p>
         <div className="flex flex-col">
           <div className="flex mb-2 items-center">
